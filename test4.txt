@@ -1,0 +1,3 @@
+''' the fourth file is created in localhost or working folder
+and this will be moved staging area and then  to copy of git folder
+and finally get pushed to github''' 
